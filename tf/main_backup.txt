@@ -33,4 +33,5 @@ resource "aws_db_instance" "myinstance" {
   instance_class       = "db.t3.micro"
   username             = "goodgoodstudy"
   password             = "daydayup"
+  skip_final_snapshot = true
 }
