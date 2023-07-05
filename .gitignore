@@ -56,5 +56,6 @@ logs/*
 # ignore data
 data/*
 
+# ignore terraform main
 tf/main.tf
 tf/main_backup.txt
