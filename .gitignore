@@ -2,6 +2,8 @@
 .DS_store
 
 .venv
+.venv_spark
+
 
 note.md
 
